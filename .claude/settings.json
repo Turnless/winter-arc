@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "turnless-plugins": {
+      "source": { "source": "github", "repo": "Turnless/colosseum-copilot" }
+    }
+  },
+  "enabledPlugins": {
+    "colosseum-copilot@turnless-plugins": true
+  }
+}
